@@ -1,0 +1,2 @@
+# KraftMuschel
+KraftMuschel = PowerShell
